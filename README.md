@@ -1,2 +1,2 @@
-# viborito
+# viborita
 documentacion de proyecto
